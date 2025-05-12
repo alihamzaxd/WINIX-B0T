@@ -67,10 +67,10 @@ module.exports. run = function({ api, event, args, getText }) {
 
 
     const siu = `┏━━━━━┓\n   ╔╬⓼★⓼╃───────➣™
-🄼🅁 🄱🄾🅃 🄾🅆🄽🄴🅁 🄰🅁🅈🄰🄽𝄠━─━Ⓔ⧐
+MR WINIIX DON 𝄠━─━Ⓔ⧐
 ╰✾✾®️╀✿✿╀─━ↈⓇ⧐                   ✧═══•❁😛❁•═══✧\n┗━━━━━┛\n\n✧═══❁♥️TOTAL COMMAND LIST ♥️❁═══✧`;
 
- const text = `PAGE 𒁍  [ ${page}/${Math.ceil(arrayInfo.length/numberOfOnePage)} ]\n\nOR COMMAND KE LIYE HAI MENU TYPE KRO\nTHIS BOT IS MADE BY ARYAN 🙂✌️\n\n\n\n❁ ═════ ❃ARYAN❃ ═════ ❁`;
+ const text = `PAGE 𒁍  [ ${page}/${Math.ceil(arrayInfo.length/numberOfOnePage)} ]\n\nOR COMMAND KE LIYE HAI MENU TYPE KRO\nTHIS BOT IS MADE BY WINIIX 🙂✌️\n\n\n\n❁ ═════ ❃WINIIX❃ ═════ ❁`;
 
     return api.sendMessage(siu + "\n\n" + msg  + text, threadID, async (error, info) => {
       if (autoUnsend) {
