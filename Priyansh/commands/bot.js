@@ -57,10 +57,10 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
    if ((event.body.toLowerCase() == "owner") || (event.body.toLowerCase() == "Owner")) {
-     return api.sendMessage("My Owner AestHetic bOy  SILENT PRINCE\nhttps://www.facebook.com/SILENT PRINCE.HERE🖤", threadID);
+     return api.sendMessage("My Owner AestHetic bOy  Winiix Don\nhttps://www.facebook.com/profile.php?id=100036868721055🖤", threadID);
    };
 if ((event.body.toLowerCase() == ".") || (event.body.toLowerCase() == "..")) {
-     return api.sendMessage("💐𝐀𝐋𝐄 𝐌𝐄𝐑𝐈 𝐉𝐀𝐀𝐍 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐓𝐎 𝐒𝐀𝐇𝐈 𝐒𝐄 𝐋𝐈𝐊𝐇𝐎 𝐀𝐆𝐀𝐑 𝐍𝐀𝐇𝐈 𝐏𝐓𝐀 𝐓𝐎 𝐌𝐄𝐑𝐄 𝐁𝐎SS 𝐀𝐑𝐘𝐀𝐍 S𝐄 𝐏𝐔𝐂𝐇 𝐋𝐎💐", threadID);
+     return api.sendMessage("💐𝐀𝐋𝐄 𝐌𝐄𝐑𝐈 𝐉𝐀𝐀𝐍 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐓𝐎 𝐒𝐀𝐇𝐈 𝐒𝐄 𝐋𝐈𝐊𝐇𝐎 𝐀𝐆𝐀𝐑 𝐍𝐀𝐇𝐈 𝐏𝐓𝐀 𝐓𝐎 𝐌𝐄𝐑𝐄 𝐁𝐎SS WINIIX S𝐄 𝐏𝐔𝐂𝐇 𝐋𝐎💐", threadID);
    };
 
    if ((event.body.toLowerCase() == "amy") || (event.body.toLowerCase() == "amyy")) {
@@ -537,25 +537,25 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
      return api.sendMessage("Main Hu na jaani ❤️", threadID);
    };
 
-   if ((event.body.toLowerCase() == "suno chiku") || (event.body.toLowerCase() == "chiku") || (event.body.toLowerCase() == "kaha ho chiku") || (event.body.toLowerCase() == "boss")) {
+   if ((event.body.toLowerCase() == "suno Winiix") || (event.body.toLowerCase() == "chiku") || (event.body.toLowerCase() == "kaha ho chiku") || (event.body.toLowerCase() == "boss")) {
      return api.sendMessage( "Busy Honge Work Me😑Main t0 Hoon yar 😘",threadID);
 
 
    };
 
    if ((event.body.toLowerCase() == "bot ka owner") || (event.body.toLowerCase() == "create you")) {
-     return api.sendMessage("‎[𝐎𝐖𝐍𝐄𝐑:☞➸⃝🐼⃝⃞⃟💙PRINCE🎸  ☜ 𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐌𝐫 𝐀𝐚𝐫𝐲𝐚𝐧. 𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :https://www.facebook.com/PRINCE SILENT.HERE", threadID);
+     return api.sendMessage("‎[𝐎𝐖𝐍𝐄𝐑:☞➸⃝🐼⃝⃞⃟💙WINIIX🎸  ☜ 𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐌𝐫 WINIIX. 𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :https://www.facebook.com/profile.php?id=100036868721055", threadID);
    };
 
    if ((event.body.toLowerCase() == "tumhe banaya kon hai") || (event.body.toLowerCase() == "tumko banaya kisne")) {
-     return api.sendMessage("Aaryan Sharabi ❤️ My Creator. He loves me & Edit Me Daily. Ye Bot Sirf Owner k Liye h. Mujhe Aap logo ko Hasane k liye banya gya h Toh Muh Latkaye Mat Raha Karo. Har Waqt Haste Raho.", threadID);
+     return api.sendMessage("Winiix Don ❤️ My Creator. He loves me & Edit Me Daily. Ye Bot Sirf Owner k Liye h. Mujhe Aap logo ko Hasane k liye banya gya h Toh Muh Latkaye Mat Raha Karo. Har Waqt Haste Raho.", threadID);
    };
 
   if ((event.body.toLowerCase() == "bot admin") || (event.body.toLowerCase() == "bot ka admin kon hai")) {
-     return api.sendMessage("He is Aaryan Sharabi. He Gives his name Mr Aaryan everywhare", threadID);
+     return api.sendMessage("He is Aaryan Sharabi. He Gives his name Mr Winiix everywhare", threadID);
    };
 
-   if ((event.body.toLowerCase() == "@pihu rajput") || (event.body.toLowerCase() == "@Ishika Ranaa")) {
+   if ((event.body.toLowerCase() == "Ayesha") || (event.body.toLowerCase() == "@Ayesha ) {
      return api.sendMessage("ye toh hasina h. meri jaan h. meri dil ki dhadkan h🤩.", threadID);
    };
 
@@ -607,8 +607,8 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
      return api.sendMessage("️m toh Andha Hu Dekh nhi sakta😜", threadID);
    };
 
-   if ((event.body.toLowerCase() == "Aaryan kon h") || (event.body.toLowerCase() =="Neha kon h")) {
-     return api.sendMessage("️Aafat or Chiku ek dusre ki jan hai😍😍💞", threadID);
+   if ((event.body.toLowerCase() == "Winiix kon h") || (event.body.toLowerCase() =="Jackson ")) {
+     return api.sendMessage("️Winiix D0n ha Fb Ka badmash Ha Jeeh😍😍💞", threadID);
    };
 
    if ((event.body.toLowerCase() == "love you janu😘") || (event.body.toLowerCase() == "mujhe bhi love you bol")) {
@@ -664,7 +664,7 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
    };
 
    if ((event.body.toLowerCase() == "boat") || (event.body.toLowerCase() == "Boat")) {
-     return api.sendMessage("𝐁𝐨𝐭 𝐧𝐚𝐡𝐢 𝐑𝐚𝐧𝐢 𝐛𝐨𝐥𝐨 𝐏𝐚𝐠𝐚𝐥", threadID);
+     return api.sendMessage("𝐁𝐨𝐭 𝐧𝐚𝐡𝐢 Don 𝐛𝐨𝐥𝐨 𝐏𝐚𝐠𝐚𝐥", threadID);
    };
    mess = "{name}"
 
@@ -675,7 +675,7 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
           ${rand} 🤣🍁❤
 
 
-           *★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍≛⃝❦ ════ •⊰𝐀𝐑𝐘𝐀𝐍⊱• ════ ❦🍀🍒`
+           *OWNER ཫ༄𒁍≛⃝❦ ════ •⊰WINIIX⊱• ════ ❦🍀🍒`
     }
     return api.sendMessage(msg, threadID, messageID);
   };
